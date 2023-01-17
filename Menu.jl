@@ -1,12 +1,10 @@
 #Vamos a hacer un saludador
 print("Ingrese su nombre: ")
 x = readline()
-print("hola $x")
-print("Que abro hoy $x")
+print("hola $x \n")
+print("Que abro hoy $x \n")
 y = readline()
-print(y)
 if y == "chiste"
-    print("Tengo una enfermedad que me obliga a hacer chiste de aeropuertos")
-    wait(5)
-    print("El doctor dice que es terminal")
+    print("Tengo una enfermedad que me obliga a hacer chiste de aeropuertos\n")
+    print("El doctor dice que es terminal\n")
 end
