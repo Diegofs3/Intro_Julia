@@ -1,3 +1,4 @@
 # Practica-de-Julia
-El objetivo es aprender las cosas basicas del lenguaje Julia y usarlo en una competencia contra un amigo para ver quien programa una mejor simulación
-de vida vegetal, yo practicaré con automatas celulares y el con un modelos de agentes.
+"Menu.jl" es un gusto que tengo por de forma ineficiente usar la consola para
+navegar entre codigos, en la carpeta se encuentra 2 jupyter's con el juego de
+la vida de Jhon Conway.
