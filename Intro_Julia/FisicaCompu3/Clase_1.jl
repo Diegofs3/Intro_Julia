@@ -1,2 +1,0 @@
-#Comentario
-println("Hello world")
